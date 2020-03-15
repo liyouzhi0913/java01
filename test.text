@@ -1,1 +1,23 @@
-python learing hello word
+git commond:
+1.git init （初始化文件夹为仓库，添加.git文件）
+2.git add .（将修改添加到暂存区）
+3.git status（获取获取工作区的状态）
+4.git commit -m ""（提交修改并添加描述）
+5.git log（）
+6.git diff（获取暂存区和工作区的区别）
+7.git diff HEAD（和最后一次commit的区别）
+8.git branch(获取当前分支)
+9.git checkout branch(切换分支)
+10.git reset --hard commit id获取HEAD（HEAD代表当前指向的commit id）
+11.git pull origin(从远程分支获取最新的修改)
+12.git push origin(将本地代码push到远程仓库)
+13.git checkout --文件(将暂存区回退到工作区)
+14.git merge branch(将branch合并到当前分支)
+15.git remote add origin master(连接远程仓库
+16.touch(创建文件)
+17.ls -al
+18.git reflog (回滚到未来)
+19.git stash(保存写好的内容切换到主干，用于分支切换过程中暂存区和工作区的丢失)
+20.git rebase(合并分支并把树杈搬到主干上)
+
+
