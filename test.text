@@ -19,5 +19,6 @@ git commond:
 18.git reflog (回滚到未来)
 19.git stash(保存写好的内容切换到主干，用于分支切换过程中暂存区和工作区的丢失)
 20.git rebase(合并分支并把树杈搬到主干上)
+21.git reset --hard HEAD^(上一个commit)
 
 
